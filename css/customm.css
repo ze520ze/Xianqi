@@ -14,10 +14,6 @@
 right: 33px;
 }
 
-#daodream-container .daodream-active-admin-avatar, #daodream-container .daodream-active-admin-avatar img{
-background-image:url('https://cdn.jsdelivr.net/gh/zhaoze-jpg/Xianqi@main/img/avatar.jpg');
-}
-
 .layout > div:first-child:not(.recent-posts)
 {
     background: var(--light_bg_color);
