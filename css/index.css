@@ -2255,9 +2255,9 @@ blockquote footer cite:before {
 #page h1.page-title {
   margin-top: 0.4rem;
 }
-#article-container img {
+/* #article-container img {
   margin: 0 auto !important;
-}
+} */
 .flink-list {
   overflow: auto;
 }
